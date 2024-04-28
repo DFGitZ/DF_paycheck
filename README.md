@@ -13,5 +13,4 @@ Jobs and groups
 This script is completely free and has been improved by me. I took the idea from eduardofroehlich's script.
 
 
-If you need any support, please contact me on discord. 
-https://discord.com/invite/sGD8Vt2avR
+If you need any support, please contact me.
