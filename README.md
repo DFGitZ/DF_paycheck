@@ -1,14 +1,17 @@
-# DF_paycheck
-Improved script by adding Discord logs, payment by item.
+Improved script with the addition of Discord registrations, payment per item.
 You have the following options:
 - Cash payment
-- Gold payment
-- Item payment
+- Payment in gold
+- Payment per item
 
-Jobs and Groups
+Jobs and groups
 
 - Define jobs 
-- Define Groups
-- Define Item
+- Define groups
+- Define items
 
-This script is totally free, and improved by me. I took the idea from eduardofroehlich's script.
+This script is completely free and has been improved by me. I took the idea from eduardofroehlich's script.
+
+
+If you need any support, please contact me on discord. 
+https://discord.com/invite/sGD8Vt2avR
